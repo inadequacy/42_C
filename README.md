@@ -20,4 +20,4 @@ Reads the next line from a file description, in so doing also remembers where it
 
 ## Push Swap
 
-A.K.A. my first sorting algorithm. I found this deeply unfun, __are you allowed to write that__? Ahaha. Yeah.
+A.K.A. my first sorting algorithm. I found this deeply unfun, _are you allowed to write that_? Ahaha. __Yeah__.
